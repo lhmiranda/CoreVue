@@ -1,0 +1,8 @@
+C:\Users\henri\Repos\CoreVue\bin\Debug\netcoreapp1.0\CoreVue.deps.json
+C:\Users\henri\Repos\CoreVue\bin\Debug\netcoreapp1.0\CoreVue.runtimeconfig.json
+C:\Users\henri\Repos\CoreVue\bin\Debug\netcoreapp1.0\CoreVue.runtimeconfig.dev.json
+C:\Users\henri\Repos\CoreVue\bin\Debug\netcoreapp1.0\CoreVue.dll
+C:\Users\henri\Repos\CoreVue\bin\Debug\netcoreapp1.0\CoreVue.pdb
+C:\Users\henri\Repos\CoreVue\obj\Debug\netcoreapp1.0\CoreVue.AssemblyInfo.cs
+C:\Users\henri\Repos\CoreVue\obj\Debug\netcoreapp1.0\CoreVue.dll
+C:\Users\henri\Repos\CoreVue\obj\Debug\netcoreapp1.0\CoreVue.pdb
